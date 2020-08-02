@@ -1,1 +1,3 @@
-def loop_message_five_times(message, output)
+def loop_message_five_times(string)
+
+end
