@@ -2,8 +2,8 @@ def loop_message_five_times(string)
   counter = 0
   array = []
 
-  while array[counter] do
-    puts array[counter]
+  while array[string] do
+    puts array[string]
     counter += 1
   end
 end
